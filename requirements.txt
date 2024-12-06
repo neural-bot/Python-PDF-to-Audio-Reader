@@ -1,0 +1,3 @@
+Install python(3.12.4) libraries: pyttsx3, pyfiglet, PyPDF2, emoji, tabulate
+
+use pip and install these libraries
