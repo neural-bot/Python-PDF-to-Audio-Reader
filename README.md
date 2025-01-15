@@ -1,4 +1,4 @@
-# PyPDF Reader 1.0 by [itsnajibul](https://github.com/itsnajibul)
+# PyPDF Reader 1.0
 
 
 PyPDF Reader 1.0 is a Python program that allows users to read the text content of PDF files using text-to-speech technology. It provides options to read the entire PDF, a single page, or a custom range of pages.  
